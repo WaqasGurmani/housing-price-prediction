@@ -108,6 +108,10 @@ Then open your browser and go to:
 - `preprocessing_pipeline.joblib` → feature transformer (for new data)
 
 ---
+## 🧠 Download Trained Model  
+Trained model file (`best_model.joblib`) is too large for GitHub upload.  
+You can download it here: [Download the model](https://drive.google.com/file/d/1UcgzZI_GY7VNFpEhJpZSPiJcxVwCIXxT/view?usp=drive_link)
+
 
 ## 👨‍💻 Author
 **Waqas Gurmani**  
@@ -118,4 +122,5 @@ Then open your browser and go to:
 
 ## 🪪 License
 This project is licensed under the **MIT License** — feel free to use and modify it for learning or portfolio purposes.
+
 
