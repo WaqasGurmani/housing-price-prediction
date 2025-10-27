@@ -115,12 +115,13 @@ You can download it here: [Download the model](https://drive.google.com/file/d/1
 
 ## 👨‍💻 Author
 **Waqas Gurmani**  
-📧 [Your Email Here]  
+📧 [waqasgurmani364@gmail.com]  
 🌐 [Your GitHub Profile](https://github.com/waqasgurmani)
 
 ---
 
 ## 🪪 License
 This project is licensed under the **MIT License** — feel free to use and modify it for learning or portfolio purposes.
+
 
 
